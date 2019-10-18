@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/flight-center-app/static/css/main.f9bd19f8.chunk.css",
+    "main.js": "/flight-center-app/static/js/main.1c49442a.chunk.js",
+    "main.js.map": "/flight-center-app/static/js/main.1c49442a.chunk.js.map",
+    "runtime-main.js": "/flight-center-app/static/js/runtime-main.88937b04.js",
+    "runtime-main.js.map": "/flight-center-app/static/js/runtime-main.88937b04.js.map",
+    "static/css/2.510409cd.chunk.css": "/flight-center-app/static/css/2.510409cd.chunk.css",
+    "static/js/2.88de6cec.chunk.js": "/flight-center-app/static/js/2.88de6cec.chunk.js",
+    "static/js/2.88de6cec.chunk.js.map": "/flight-center-app/static/js/2.88de6cec.chunk.js.map",
+    "index.html": "/flight-center-app/index.html",
+    "precache-manifest.387dbf8a426dff0aa9b611c10e253e08.js": "/flight-center-app/precache-manifest.387dbf8a426dff0aa9b611c10e253e08.js",
+    "service-worker.js": "/flight-center-app/service-worker.js",
+    "static/css/2.510409cd.chunk.css.map": "/flight-center-app/static/css/2.510409cd.chunk.css.map",
+    "static/css/main.f9bd19f8.chunk.css.map": "/flight-center-app/static/css/main.f9bd19f8.chunk.css.map",
+    "static/media/Login.css": "/flight-center-app/static/media/airplane.712b571c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.88937b04.js",
+    "static/css/2.510409cd.chunk.css",
+    "static/js/2.88de6cec.chunk.js",
+    "static/css/main.f9bd19f8.chunk.css",
+    "static/js/main.1c49442a.chunk.js"
+  ]
+}
