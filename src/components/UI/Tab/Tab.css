@@ -1,0 +1,14 @@
+.nav-tabs a {
+    color: #5a5a5a;
+    margin: 8px 16px 24px 8px;
+    padding: 0px 0px 16px;
+    position: relative;
+    top: -15px;
+}
+.nav-tabs a:hover, .nav-tabs a:active, .nav-tabs a.active,
+.nav-tabs li:active a, .nav-tabs li.active a {
+    text-decoration: none;
+    color: #5a5a5a;
+    border-bottom: 2px solid #CC0C00;
+    font-weight: bold;
+}

@@ -1,0 +1,40 @@
+.airplane-bg {
+    background-color: rgba(204, 12, 0, 0.5);
+    background-image: url('../../assets/images/airplane.svg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    -o-background-size: contain;
+    height: 100%;
+    width: 100%;
+}
+.row .airplane-block {
+    height: auto;
+    min-height: 694px;
+    padding: 0px;
+}
+.loginPage .right-block {
+    margin-top: 60px;
+    padding: 50px 25px;
+}
+.signIn-txt {
+    padding: 50px 0px 10px;
+}
+.forgot-link {
+    color: #CC0C00;
+    border: none;
+    background-color: transparent;
+}
+.loginForm input {
+    border: none;
+    background-color: #def4fb;
+    border-bottom: 1px solid #ced4da;
+    border-radius: 0px;
+}
+.loginForm input:focus {
+    background-color: transparent;
+    border-color: #ced4da;
+    box-shadow: none;
+}

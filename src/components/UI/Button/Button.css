@@ -1,0 +1,13 @@
+.btn.red-btn {
+    background-color: #CC0C00;
+    color: #fff;
+    padding: 8px 24px;
+}
+.btn.red-btn:hover {
+    color: #fff;
+}
+.btn.red-btn:focus {
+    outline: none;
+    border-color: transparent;
+    box-shadow: none;
+}

@@ -1,0 +1,14 @@
+.searchBar input {
+    border: none;
+    padding: 15px 0px;
+    width: 100%;
+}
+.searchBar input:focus {
+    border: none;
+    outline: none;
+}
+@media(max-width: 767px) {
+    .searchBar input {
+        display: none;
+    }
+}

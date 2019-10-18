@@ -1,0 +1,10 @@
+.header {
+    height: 60px;
+    box-shadow: 1px 10px 5px #eee;
+    position: fixed;
+}
+.mainContent {
+    margin-top: 50px;
+    width: 100%;
+    min-height: 700px;
+}

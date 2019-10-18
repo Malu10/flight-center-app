@@ -1,0 +1,20 @@
+.innerPage button {
+    text-transform: uppercase;
+    border-radius: 0px;
+}
+.btn-space {
+    margin: 20px 0px 25px;
+}
+.innerPage .spacing {
+    padding-top: 12px;
+}
+.innerPage .spacing .textField label {
+    top: -8px;
+    position: relative;
+}
+.innerPage form .row {
+    padding-bottom: 16px;
+}
+.innerPage {
+    box-shadow: 1px 50px 25px #ececec;
+}

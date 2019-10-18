@@ -1,0 +1,6 @@
+.checkbox .checkbox-label {
+    padding-left: 8px;
+}
+.checkbox input[type="checkbox"] {
+    background-color: #fff;
+}

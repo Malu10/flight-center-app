@@ -1,0 +1,13 @@
+.dropDown select {
+    border: none;
+    border-bottom: 1px solid rgb(165, 163, 163);
+    border-radius: 0px;
+    width: 100%;
+    padding: 0px;
+}
+.dropDown select:focus {
+    outline: none;
+    border-color: transparent;
+    box-shadow: none;
+    border-bottom: 1px solid rgb(165, 163, 163);
+}

@@ -1,0 +1,12 @@
+.textField input {
+    border: none;
+    border-bottom: 1px solid rgb(165, 163, 163);
+    border-radius: 0px;
+    width: 100%;
+}
+.textField label {
+    width: 100%;
+}
+.textField input:focus {
+    outline: none;
+}
